@@ -1,4 +1,4 @@
-function [ i] = rotate( input_args )
+function [ i] = rotate( img )
 %UNTITLED4 Summary of this function goes here
 %   Detailed explanation goes here
 [h theta rho]=hough(img);
